@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 - 👨‍💻 My Projects : https://github.com/Arjun31415/
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arjun31415&show_icons=true&locale=en&layout=compact" alt="Arjun31415" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en" alt="Arjun31415" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&" alt="Arjun31415" /></p>
