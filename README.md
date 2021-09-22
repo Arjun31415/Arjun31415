@@ -47,4 +47,9 @@ Here are some ideas to get you started:
 <a href="https://www.oracle.com/" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
  </a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+ </a>
+ <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 </p>
