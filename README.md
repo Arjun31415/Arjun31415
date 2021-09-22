@@ -57,5 +57,5 @@ Here are some ideas to get you started:
  <a href="https://expressjs.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40"/>
  </a>
- <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+
 </p>
