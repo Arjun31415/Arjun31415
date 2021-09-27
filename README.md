@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" height="40" width="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" width="40"/>
+   <img src="./assets/flask.svg" height="40" width="40"/>
    
   </a>
    
