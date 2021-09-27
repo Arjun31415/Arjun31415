@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 <br></br>
 
- # Cloud Skills
+ # [Cloud Skills]( https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409 )
   <a href=" https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409 ">
     <img alt="badge image" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px">
  </a>
