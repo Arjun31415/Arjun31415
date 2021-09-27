@@ -60,7 +60,17 @@ Here are some ideas to get you started:
  </a>
     <a href="https://expressjs.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" style="background-color:white"/>
-  
- </a>
-
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" width="40" style="background-color:white"/>
+   </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  </a>
 </p>
+<br></br>
+
+ # Cloud Skills
+ <a href=" https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409 "><img alt="badge image" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px"></a>
+
+
