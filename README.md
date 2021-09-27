@@ -65,7 +65,7 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" width="40"/>
    </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
-   <img src="https://github.com/Arjun31415/Arjun31415/blob/main/flask.svg" height="40" width="40"/>
+   <img src="assets/flask.svg" height="40" width="40"/>
    </a>
    
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
