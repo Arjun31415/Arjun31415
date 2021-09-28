@@ -49,7 +49,11 @@ Here are some ideas to get you started:
     <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a> 
+    </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    </a>
     <!-- HTML -->
     <a href="https://www.w3schools.com/html/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="html5" width="40" height="40"/>
