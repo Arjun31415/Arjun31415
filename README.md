@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br></br>
 # Github Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en" alt="Arjun31415"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en" alt="Arjun31415"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&" alt="Arjun31415"/>
 </p>
 
