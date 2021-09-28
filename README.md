@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     </a>
     <!-- CSS3 -->
     <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     </a>
     <!-- Figma -->
     <a href="https://www.figma.com/" target="_blank">
