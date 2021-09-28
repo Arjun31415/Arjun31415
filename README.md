@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     </a> 
     <!-- HTML -->
     <a href="https://www.w3schools.com/html/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="html5" width="40" height="40"/>
     </a>
     <!-- CSS3 -->
     <a href="https://www.w3schools.com/css/" target="_blank">
