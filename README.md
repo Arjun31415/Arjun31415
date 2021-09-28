@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 
 <br></br>
 # Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en" alt="Arjun31415" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&" alt="Arjun31415" /> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en" alt="Arjun31415"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&" alt="Arjun31415"/>
+</p>
 
 <br></br>
 # Languages and Tools
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=nightowl)
 
 <br></br>
