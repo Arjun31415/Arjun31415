@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 ## Cloud Enginnering 
 <p>
 <!-- Google Cloud Essentials  -->
-<a href="">
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1261041">
 <img alt="Google Cloud credentials badge" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D" height="120px"/>
 </a>
 <!-- Perform Foundational Infrastructure Tasks -->
