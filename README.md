@@ -108,13 +108,43 @@ Here are some ideas to get you started:
 
  # [Cloud Skills]( https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409 )
 
+## Data Science and Machine Learning 
+
 <p>
 <!-- Create and Manage Cloud Resources -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1207047"><img alt="Cloud Resources" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px"/>
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1207047"><img alt="Cloud Resources badge" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px"/>
 </a>
+
 <!-- Perform Foundational Data, ML, and AI Tasks -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1218766"><img alt="ML/AI tasks" src="https://cdn.qwiklabs.com/%2F9D4R4yvhkeW801%2FE2ryfwk0hLrPAI0XI85bSGOeFYY%3D" height="120px"/>
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1218766"><img alt="ML/AI tasks badge" src="https://cdn.qwiklabs.com/%2F9D4R4yvhkeW801%2FE2ryfwk0hLrPAI0XI85bSGOeFYY%3D" height="120px"/>
 </a>
+
 <!-- Insights from Data with BigQuery -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1223461"><img alt="BigQuery" src="https://cdn.qwiklabs.com/IBk0o4vFmjLggVGWsOqoRFssHQkhjZPXpl%2F7Qa6srP4%3D" height="120px"/>
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1223461"><img alt="BigQuery badge" src="https://cdn.qwiklabs.com/IBk0o4vFmjLggVGWsOqoRFssHQkhjZPXpl%2F7Qa6srP4%3D" height="120px"/>
+
+<!-- Engineer Data in Google Cloud -->
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1255541"><img alt="Engineer Data in Google Cloud badge" src="https://cdn.qwiklabs.com/cwjT%2B56NWniWRx%2BC17wc1l%2Ba9IcE0z3nJChIyQ%2BINGA%3D" height="120px"/></a>
+
+<!-- Integrate with Machine Learning APIs -->
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1259792">
+<img alt="Integrate with Machine Learning APIs badge" src="https://cdn.qwiklabs.com/cJbT7JiMvgeP9M5pUfFLEmM7WMuEmu57rqX6QMiK%2BgE%3D" height="120px"/>
+</a>
+
+<!-- Explore Machine Learning Models with Explainable AI -->
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1260953">
+<img alt="Explainable AI badge" src="https://cdn.qwiklabs.com/bpAngYNHapPcc%2FjFArVSESvEhtg8oL1fGsRisI8Pv8A%3D" height="120px"/>
+</a>
+</p>
+
+## Cloud Enginnering 
+<p>
+<!-- Google Cloud Essentials  -->
+<a href="">
+<img alt="Google Cloud credentials badge" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D" height="120px"/>
+</a>
+<!-- Perform Foundational Infrastructure Tasks -->
+<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1272180">
+<img alt="Foundational Infrastructure badge image" 
+src="https://cdn.qwiklabs.com/wgk4u0FK3ainv0MN7iNCAJMzISD9KUKBfwu7fSGI10I%3D" height="120px"/>
+</a>
 </p>
