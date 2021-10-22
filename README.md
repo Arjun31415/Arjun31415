@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 # Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en "Arjun31415")
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en&theme=cobalt "Arjun31415")
 ![Github Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415& "Arjun31415")
 
 <br></br>
 
 # Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=nightowl&exclude_repo=CP-submissions)
 
 <br></br>
 
