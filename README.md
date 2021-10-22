@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Arjun
+
 <br></br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Arjun31415.Arjun31415)[![Github](https://img.shields.io/github/followers/Arjun31415?label=Follow&style=social)](https://github.com/Arjun31415)
+
 <!--
 **Arjun31415/Arjun31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arjun31415" alt="Arjun31415" /></a> </p>
 
-- 🌱 I’m currently learning <strong>Nodejs and Express</strong>
+- 🌱 I’m currently learning <strong>Reactjs</strong>
 
 - 📫 How to reach me: arjunp0710@gmail.com
 
@@ -26,17 +28,20 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/arjun-prashanth-36a9371b9)
 
 <br></br>
+
 # Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en "Arjun31415")
 ![Github Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415& "Arjun31415")
 
 <br></br>
+
 # Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=nightowl)
 
 <br></br>
+
 <p align="center">
     <!-- C++ -->
     <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -106,9 +111,9 @@ Here are some ideas to get you started:
 </p>
 <br></br>
 
- # [Cloud Skills]( https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409 )
+# [Cloud Skills](https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409)
 
-## Data Science and Machine Learning 
+## Data Science and Machine Learning
 
 <p>
 <!-- Create and Manage Cloud Resources -->
@@ -136,7 +141,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Cloud Enginnering 
+## Cloud Enginnering
+
 <p>
 <!-- Google Cloud Essentials  -->
 <a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1261041">
