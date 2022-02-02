@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arjun31415" alt="Arjun31415" /></a> </p>
 
-- 🌱 I’m currently learning <strong>Nextjs</strong>
+- 🌱 I’m currently learning <strong>Competitive Programming</strong>
 
 - 📫 How to reach me: arjunp0710@gmail.com
 
