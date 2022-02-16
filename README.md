@@ -34,4 +34,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Arjun31415&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitor-badge.laobi.icu/badge?page_id=Arjun31415.Arjun31415&left_color=grey&right_color=green)[![Github](https://img.shields.io/github/followers/Arjun31415?label=Follow&style=social)](https://github.com/Arjun31415)
