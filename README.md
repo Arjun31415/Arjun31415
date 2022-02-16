@@ -1,21 +1,4 @@
-### Hi there 👋 I'm Arjun
-
-<br></br>
-![](https://visitor-badge.laobi.icu/badge?page_id=Arjun31415.Arjun31415)[![Github](https://img.shields.io/github/followers/Arjun31415?label=Follow&style=social)](https://github.com/Arjun31415)
-
-<!--
-**Arjun31415/Arjun31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arjun31415" alt="Arjun31415" /></a> </p>
+# 💫About Me :
 
 - 🌱 I’m currently learning <strong>Competitive Programming</strong>
 
@@ -27,130 +10,28 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/arjun-prashanth-36a9371b9)
 
-<br></br>
+## 🌐Socials
 
-# Github Stats
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-prashanth-36a9371b9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Hello-World)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arjun31415&show_icons=true&locale=en&theme=cobalt "Arjun31415")
-![Github Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415& "Arjun31415")
+# 💻Tech Stack
 
-<br></br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# Languages and Tools
+# 📊GitHub Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=nightowl&exclude_repo=CP-submissions)
+![](https://github-readme-stats.vercel.app/api?username=Arjun31415&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br></br>
+## 🏆GitHub Trophies
 
-<p align="center">
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <!-- Py -->
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <!-- C -->
-    <a href="https://www.cprogramming.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <!-- Git -->
-    <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    </a>
-    <!-- HTML -->
-    <a href="https://www.w3schools.com/html/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="html5" width="40" height="40"/>
-    </a>
-    <!-- CSS3 -->
-    <a href="https://www.w3schools.com/css/" target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <!-- Figma -->
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <!-- Matlab -->
-    <a href="https://www.mathworks.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-    </a>
-    <!-- Oracle SQL -->
-    <a href="https://www.oracle.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-    </a>
-    <!-- Flask -->
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
-      <img src="./assets/flask.svg" height="40" width="40"/>
-    </a>
-    <!-- Mongodb -->
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <!-- Nodejs -->
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-    </a>
-    <!-- Express -->
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" height="40" width="40"/>
-    </a>
-    <!-- Google Cloud -->
-    <a href="https://cloud.google.com/"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-    </a>
-    <!-- Vscode -->
-    <a href="" target="_blank">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-    </a>
-    <!-- Pycharm -->
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-    </a>
+![](https://github-profile-trophy.vercel.app/?username=Arjun31415&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</p>
-<br></br>
+### ✍️Random Dev Quote
 
-# [Cloud Skills](https://www.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quoteCategory=fun)
 
-## Data Science and Machine Learning
+---
 
-<p>
-<!-- Create and Manage Cloud Resources -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1207047"><img alt="Cloud Resources badge" src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" height="120px"/>
-</a>
-<!-- ------------------------------------------------------------------------------------------------------------------ -->
-<!-- Perform Foundational Data, ML, and AI Tasks -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1218766"><img alt="ML/AI tasks badge" src="https://cdn.qwiklabs.com/%2F9D4R4yvhkeW801%2FE2ryfwk0hLrPAI0XI85bSGOeFYY%3D" height="120px"/>
-</a>
-<!-- ------------------------------------------------------------------------------------------------------------------ -->
-<!-- Insights from Data with BigQuery -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1223461"><img alt="BigQuery badge" src="https://cdn.qwiklabs.com/IBk0o4vFmjLggVGWsOqoRFssHQkhjZPXpl%2F7Qa6srP4%3D" height="120px"/>
-<!-- ------------------------------------------------------------------------------------------------------------------ -->
-<!-- Engineer Data in Google Cloud -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1255541"><img alt="Engineer Data in Google Cloud badge" src="https://cdn.qwiklabs.com/cwjT%2B56NWniWRx%2BC17wc1l%2Ba9IcE0z3nJChIyQ%2BINGA%3D" height="120px"/></a>
-<!-- ------------------------------------------------------------------------------------------------------------------ -->
-<!-- Integrate with Machine Learning APIs -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1259792">
-<img alt="Integrate with Machine Learning APIs badge" src="https://cdn.qwiklabs.com/cJbT7JiMvgeP9M5pUfFLEmM7WMuEmu57rqX6QMiK%2BgE%3D" height="120px"/>
-</a>
-<!-- ------------------------------------------------------------------------------------------------------------------ -->
-<!-- Explore Machine Learning Models with Explainable AI -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1260953">
-<img alt="Explainable AI badge" src="https://cdn.qwiklabs.com/bpAngYNHapPcc%2FjFArVSESvEhtg8oL1fGsRisI8Pv8A%3D" height="120px"/>
-</a>
-</p>
-
-## Cloud Enginnering
-
-<p>
-<!-- Google Cloud Essentials  -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1261041">
-<img alt="Google Cloud credentials badge" src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D" height="120px"/>
-</a>
-<!-- Perform Foundational Infrastructure Tasks -->
-<a href="https://google.qwiklabs.com/public_profiles/fbc9de29-97db-4b10-b8a5-03d383ff0409/badges/1272180">
-<img alt="Foundational Infrastructure badge image" 
-src="https://cdn.qwiklabs.com/wgk4u0FK3ainv0MN7iNCAJMzISD9KUKBfwu7fSGI10I%3D" height="120px"/>
-</a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Arjun31415&icon=0&color=0)](https://visitcount.itsvg.in)
