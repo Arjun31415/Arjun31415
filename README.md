@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My Projects : https://github.com/Arjun31415/
 
-- 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/arjun-prashanth-36a9371b9)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/arjun-prashanth-36a9371b9)
 
 <br></br>
 
