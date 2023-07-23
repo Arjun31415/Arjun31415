@@ -1,9 +1,5 @@
 # 💫About Me :
 
-- 🌱 I’m currently learning <strong>Competitive Programming</strong>
-
-- 📫 How to reach me: arjunp0710@gmail.com
-
 - 😄 Pronouns: He/Him
 
 - 👨‍💻 My Projects : https://github.com/Arjun31415/
