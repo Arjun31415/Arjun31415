@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Arjun31415&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun31415&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun31415&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Azazel07's GitHub | Languages Over Time](https://stats.quine.sh/Azazel07/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azazel07)
+<!--- [![Azazel07's GitHub | Languages Over Time](https://stats.quine.sh/Azazel07/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Azazel07) --->
 
 ## 🏆GitHub Trophies
 
