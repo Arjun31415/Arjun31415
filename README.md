@@ -24,10 +24,3 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Arjun31415&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quoteCategory=fun)
-
----
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Arjun31415.Arjun31415&left_color=grey&right_color=green)[![Github](https://img.shields.io/github/followers/Arjun31415?label=Follow&style=social)](https://github.com/Arjun31415)
