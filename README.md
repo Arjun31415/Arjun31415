@@ -4,13 +4,6 @@
 
 - 👨‍💻 My Projects : https://github.com/Arjun31415/
 
-## 🌐Socials
-
- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16780635/hello-world)
-
-# HoloPin
-[![@azazel07's Holopin board](https://holopin.me/azazel07)](https://holopin.io/@azazel07)
-
 # 💻Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=red)
